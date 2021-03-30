@@ -10,3 +10,14 @@ document.onmousemove = (event) => {
   }
 };
 
+var img = new Image();
+var div = document.getElementById("smile");
+img.src = "./teeth.png";
+
+function x() {
+  div.appendChild(img);
+}
+
+setTimeout(() => {
+  x();
+}, 3500);
