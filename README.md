@@ -4,6 +4,9 @@
 
 
 
+![screenshot Portfolio](https://user-images.githubusercontent.com/76454035/112935932-0a046180-90e2-11eb-919f-d5e5d4f9017b.png)
+
+
 The page is divided into sections that you can navigate using the navigation bar.
 
 It's divided into my video introduction, my portfolios/projects, about me, a form to contact me and the links to my social media, github account and my linked-in account.
